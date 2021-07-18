@@ -2,4 +2,4 @@
 
 ## Project link
 
-[Live Preview]()
+[Live Preview](https://modest-nightingale-b5d3ea.netlify.app/)
