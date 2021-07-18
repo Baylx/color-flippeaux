@@ -2,4 +2,4 @@
 
 ## Project link
 
-[Live Preview](https://modest-nightingale-b5d3ea.netlify.app/)
+[Live Preview](https://compassionate-euler-d92da1.netlify.app/)
